@@ -1,6 +1,6 @@
 <script setup>
 import Strapi from "../components/Strapi.vue";
-
+import ButtonUI from "../components/ButtonUI.vue";
 </script>
 
 <template>
@@ -47,8 +47,9 @@ import Strapi from "../components/Strapi.vue";
         </div>
       </div>
     </div>
-    <button class="text-white">Начать путшествие</button>
-    <Strapi/>
+    <!-- <button class="text-white">Начать путшествие</button> -->
+    <ButtonUI title="Начать путшествие"/>
+    <Strapi />
   </div>
 </template>
 
