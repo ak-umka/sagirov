@@ -1,0 +1,11 @@
+.main-background {
+  background: url('../icons/background.png') no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+.button { 
+  background: url('../icons/button.png') no-repeat center center
+    fixed;
+    background-size: cover;
+}

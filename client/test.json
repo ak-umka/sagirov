@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "createdAt": "2022-08-11T08:29:32.917Z",
+        "updatedAt": "2022-08-11T08:39:35.183Z",
+        "publishedAt": "2022-08-11T08:29:33.697Z",
+        "title": "hola",
+        "description": "hello world"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "createdAt": "2022-08-11T08:38:11.455Z",
+        "updatedAt": "2022-08-11T08:38:41.371Z",
+        "publishedAt": "2022-08-11T08:38:41.369Z",
+        "title": "home",
+        "description": "sweet home"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
