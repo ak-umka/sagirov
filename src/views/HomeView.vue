@@ -14,28 +14,28 @@
         </div>
         <div class="grid grid-cols-2 gap-2 pt-20">
           <div
-            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-br from-transparent via-transparent to-slate-50/10"
+            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-br from-transparent via-transparent to-slate-50/10 hover:bg-gradient-to-br hover:from-transparent hover:via-transparent hover:to-slate-50/30"
           >
             <h1 class="text-slate-50/40 text-xl pb-3">мы</h1>
             <h1 class="text-white text-5xl">1</h1>
             <h1 class="text-slate-50/40 text-xl">на рынке</h1>
           </div>
           <div
-            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-bl from-transparent via-transparent to-slate-50/10"
+            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-bl from-transparent via-transparent to-slate-50/10 hover:bg-gradient-to-bl hover:from-transparent hover:via-transparent hover:to-slate-50/30"
           >
             <h1 class="text-slate-50/40 text-xl pb-3">гарантируем</h1>
             <h1 class="text-white text-5xl">50%</h1>
             <h1 class="text-slate-50/40 text-xl">безопаность</h1>
           </div>
           <div
-            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-tr from-transparent via-transparent to-slate-50/10"
+            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-tr from-transparent via-transparent to-slate-50/10 hover:bg-gradient-to-tr hover:from-transparent hover:via-transparent hover:to-slate-50/30"
           >
             <h1 class="text-slate-50/40 text-xl pb-3">календарик за</h1>
             <h1 class="text-white text-5xl">2001</h1>
             <h1 class="text-slate-50/40 text-xl">в подарок</h1>
           </div>
           <div
-            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-tl from-transparent via-transparent to-slate-50/10"
+            class="flex flex-col justify-center text-center items-center box-content h-36 w-36 p-4 bg-gradient-to-tl from-transparent via-transparent to-slate-50/10 hover:bg-gradient-to-tl hover:from-transparent hover:via-transparent hover:to-slate-50/30"
           >
             <h1 class="text-slate-50/40 text-xl pb-3">путшествие</h1>
             <h1 class="text-white text-5xl">597</h1>
@@ -44,7 +44,7 @@
         </div>
       </div>
     </div>
-    <button class="p-2 border-4 border-b-indigo-500   text-white">Начать путшествие</button>
+    <button class=" text-white">Начать путшествие</button>
   </div>
 </template>
 
